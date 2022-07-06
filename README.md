@@ -1,2 +1,2 @@
-# Jourbey_Travelling_Project
+# Journey_Travelling_Project
 Journey Project
